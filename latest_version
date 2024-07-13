@@ -2795,47 +2795,47 @@
         "HPAddedRatio": 0,
         "AttackAddedRatio": 0,
         "DefenceAddedRatio": 0,
-        "CriticalChanceBase": 0,
+        "CriticalChanceBase": 1,
         "CriticalDamageBase": 0,
         "HealRatioBase": 0,
         "StatusProbabilityBase": 0
       },
       "feet": {
         "HPAddedRatio": 0,
-        "AttackAddedRatio": 0,
+        "AttackAddedRatio": 1,
         "DefenceAddedRatio": 0,
         "SpeedDelta": 0
       },
       "sphere": {
         "HPAddedRatio": 0,
-        "AttackAddedRatio": 0,
+        "AttackAddedRatio": 0.8,
         "DefenceAddedRatio": 0,
         "PhysicalAddedRatio": 0,
         "FireAddedRatio": 0,
         "IceAddedRatio": 0,
         "ThunderAddedRatio": 0,
         "WindAddedRatio": 0,
-        "QuantumAddedRatio": 0,
+        "QuantumAddedRatio": 1,
         "ImaginaryAddedRatio": 0
       },
       "rope": {
         "BreakDamageAddedRatioBase": 0,
         "SPRatioBase": 0,
         "HPAddedRatio": 0,
-        "AttackAddedRatio": 0,
+        "AttackAddedRatio": 1,
         "DefenceAddedRatio": 0
       }
     },
     "sub": {
       "HPDelta": 0,
-      "AttackDelta": 0,
+      "AttackDelta": 0.2,
       "DefenceDelta": 0,
       "HPAddedRatio": 0,
-      "AttackAddedRatio": 0,
+      "AttackAddedRatio": 0.7,
       "DefenceAddedRatio": 0,
-      "SpeedDelta": 0,
-      "CriticalChanceBase": 0,
-      "CriticalDamageBase": 0,
+      "SpeedDelta": 0.5,
+      "CriticalChanceBase": 1,
+      "CriticalDamageBase": 0.8,
       "StatusProbabilityBase": 0,
       "StatusResistanceBase": 0,
       "BreakDamageAddedRatioBase": 0
